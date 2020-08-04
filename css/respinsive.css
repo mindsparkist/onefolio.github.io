@@ -1,0 +1,19 @@
+@media only screen and (max-width: 715px) {
+    .carousel-indicators{
+        display: none;
+    }
+    .list-type3 a:before,
+    .list-type3 a:after{
+        display: none;
+    }
+    .list-type3 a{
+        margin-left: 30px;
+    }
+    .card-img-top{
+        margin-left: 35% !important;
+    }
+    .carousel-item{
+        height: 110vh;
+        
+    }
+  }
